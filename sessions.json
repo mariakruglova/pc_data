@@ -7915,17 +7915,6 @@
     "url": "https://podlodka.io/crew-records/#rec347321555"
   },
   {
-    "title": "Услышь меня: как доносить свои идеи",
-    "format": "Доклад",
-    "speakers": [
-      "Александр Сенотов"
-    ],
-    "conference": "GPB Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
-  },
-  {
     "title": "Место исследований в работе продакта",
     "format": "Интервью",
     "speakers": [
@@ -7984,17 +7973,6 @@
     "url": "https://podlodka.io/crew-records/#rec497392729"
   },
   {
-    "title": "Как стать мастером коммуникации",
-    "format": "Воркшоп",
-    "speakers": [
-      "Владимир Иванов"
-    ],
-    "conference": "GPB Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "Что такое communication plans, стейкхолдеров и стратегии информирования",
-    "url": "https://podlodka.io/crew-records"
-  },
-  {
     "title": "Смузи дизайн система: унифицируем анимации в приложении",
     "format": "Воркшоп",
     "speakers": [
@@ -8029,17 +8007,6 @@
     "season_theme": "Исследования",
     "description": "Выбираем лучший набор от экспертов.",
     "url": "https://podlodka.io/crew-records/#rec497392729"
-  },
-  {
-    "title": "Фабрика гнилых отмазок",
-    "format": "Воркшоп",
-    "speakers": [
-      "Алексей Пименов"
-    ],
-    "conference": "GPB Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
   },
   {
     "title": "Перенимаем принципы анимации из мультиков Disney",
@@ -8102,17 +8069,6 @@
     "url": "https://podlodka.io/crew-records/#rec497392729"
   },
   {
-    "title": "Домашка для команд: подготовить рассказ по теме придуманной экспертом. В конце конфы, делаем публичную сессию с разбором от эксперта. + бонус-трек, где участник записывает видео на разбор. От эксперта ждем генерации тем для домашки и участия в финальной сессии с разбором итогов",
-    "format": "Воркшоп",
-    "speakers": [
-      "Евгений Кот"
-    ],
-    "conference": "GPB Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
-  },
-  {
     "title": "Bottom Sheet, перейдём на «ты»",
     "format": "Воркшоп",
     "speakers": [
@@ -8169,18 +8125,6 @@
     "url": "https://podlodka.io/crew-records/#rec497392729"
   },
   {
-    "title": "Эффективное проведение рабочих встреч «на удаленке»",
-    "format": "Круглый стол",
-    "speakers": [
-      "Александр Сенотов",
-      "Константин Подрубный"
-    ],
-    "conference": "GPB Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
-  },
-  {
     "title": "Animate in the Dark",
     "format": "Игра",
     "speakers": [
@@ -8206,61 +8150,6 @@
     "season_theme": "Исследования",
     "description": "",
     "url": "https://podlodka.io/crew-records/#rec497392729"
-  },
-  {
-    "title": "Техники подачи обратной связи (как быть требовательным(-ой) и не обидеть)",
-    "format": "Воркшоп",
-    "speakers": [
-      "Сергей Соколов"
-    ],
-    "conference": "GPB Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
-  },
-  {
-    "title": "Манипуляции в коммуникациях",
-    "format": "Воркшоп",
-    "speakers": [
-      "Юлия Белозерова"
-    ],
-    "conference": "GPB Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "За годы работы я выработала защитные механизмы от самых разных манипуляций. Спешу поделиться методами распознавания и безопасной реакции на особенно часто встречаемые приемы. Разберем десяток ситуативных примеров с вариантами реагирования, но останемся на светлой стороне силы!",
-    "url": "https://podlodka.io/crew-records"
-  },
-  {
-    "title": "Теория конфликта",
-    "format": "Доклад",
-    "speakers": [
-      "Константин Подрубный"
-    ],
-    "conference": "GPB Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
-  },
-  {
-    "title": "Токсы vs границы",
-    "format": "Воркшоп",
-    "speakers": [
-      "Анастасия Калашникова"
-    ],
-    "conference": "GPB Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
-  },
-  {
-    "title": "Разбор конфликтных кейсов по командам",
-    "format": "Воркшоп",
-    "speakers": [
-      "Евгений Антонов"
-    ],
-    "conference": "GPB Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
   },
   {
     "title": "Разработка простейшего игрового бота (preview)",
@@ -8774,17 +8663,6 @@
     "url": "https://podlodka.io/crew-records/#rec347321555"
   },
   {
-    "title": "Услышь меня: как доносить свои идеи",
-    "format": "Доклад",
-    "speakers": [
-      "Александр Сенотов"
-    ],
-    "conference": "Sandbox Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "Это очень длинное описание сессии.\n\nПервый гол на 25-й минуте забил Винисиус Жуниор после потери Серджи Бускетса. На 41-й минуте Люк де Йонг сравнял счет.\n\nВо втором тайме Карим Бензема вновь вывел мадридцев вперед на 72-й минуте, но Ансу Фати сравнял на 83-й. В основное время матча команды не выявили победителя.\n\nВ дополнительное время Феде Вальверде забил на 98-й минуте и принес «Реалу» победу.",
-    "url": "https://podlodka.io/crew-records"
-  },
-  {
     "title": "Compose cookbook",
     "format": "Воркшоп",
     "speakers": [
@@ -8807,17 +8685,6 @@
     "url": "https://podlodka.io/crew-records/#rec347321555"
   },
   {
-    "title": "Как стать мастером коммуникации",
-    "format": "Воркшоп",
-    "speakers": [
-      "Владимир Иванов"
-    ],
-    "conference": "Sandbox Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
-  },
-  {
     "title": "Хехе, Compose",
     "format": "Доклад",
     "speakers": [
@@ -8827,17 +8694,6 @@
     "season_theme": "Jetpack Compose",
     "description": "История о том, как компания HeadHunter пробовали у себя Compose и к каким выводам пришли.",
     "url": "https://podlodka.io/crew-records/#rec347323465"
-  },
-  {
-    "title": "Фабрика гнилых отмазок",
-    "format": "Воркшоп",
-    "speakers": [
-      "Алексей Пименов"
-    ],
-    "conference": "Sandbox Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
   },
   {
     "title": "Как остаться в светлой памяти: доклад о том, почему наши приложения вылетают",
@@ -8860,17 +8716,6 @@
     "season_theme": "Jetpack Compose",
     "description": "С выходом Compose поменялся и подход к архитектуре. Но что именно и как - узнаем на этом докладе.",
     "url": "https://podlodka.io/crew-records/#rec347323465"
-  },
-  {
-    "title": "Домашка для команд: подготовить рассказ по теме придуманной экспертом. В конце конфы, делаем публичную сессию с разбором от эксперта. + бонус-трек, где участник записывает видео на разбор. От эксперта ждем генерации тем для домашки и участия в финальной сессии с разбором итогов",
-    "format": "Воркшоп",
-    "speakers": [
-      "Евгений Кот"
-    ],
-    "conference": "Sandbox Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
   },
   {
     "title": "Анимации в Jetpack Compose - всё то же самое, только проще?",
@@ -8906,18 +8751,6 @@
     "url": "https://podlodka.io/crew-records/#rec347321555"
   },
   {
-    "title": "Эффективное проведение рабочих встреч «на удаленке»",
-    "format": "Круглый стол",
-    "speakers": [
-      "Александр Сенотов",
-      "Константин Подрубный"
-    ],
-    "conference": "Sandbox Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
-  },
-  {
     "title": "Jetpack Compose в production",
     "format": "Доклад",
     "speakers": [
@@ -8938,17 +8771,6 @@
     "season_theme": "Перформанс и профайлинг",
     "description": "Зачем оптимизировать время старта и какие метрики выбрать как целевые? Можно ли свести все к одному интегральному показателю? Мы в Супераппе Яндекса используем для контроля скорости старта Mobile Velocity Index. Расскажем про методику расчета Mobile Velocity Index и практику его применения.",
     "url": "https://podlodka.io/crew-records/#rec347321555"
-  },
-  {
-    "title": "Техники подачи обратной связи (как быть требовательным(-ой) и не обидеть)",
-    "format": "Воркшоп",
-    "speakers": [
-      "Тест Тестов"
-    ],
-    "conference": "Sandbox Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
   },
   {
     "title": "Compose under the hood",
@@ -8973,17 +8795,6 @@
     "url": "https://podlodka.io/crew-records/#rec347321555"
   },
   {
-    "title": "Манипуляции в коммуникациях",
-    "format": "Воркшоп",
-    "speakers": [
-      "Николай Иготти"
-    ],
-    "conference": "Sandbox Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
-  },
-  {
     "title": "Compose for Widgets & Wearables",
     "format": "Доклад",
     "speakers": [
@@ -9004,17 +8815,6 @@
     "season_theme": "Перформанс и профайлинг",
     "description": "Как-то раз мы в Тинькофф оптимизировали работу с контактами и получили крутой результат. На примере этого опыта постараюсь показать вам, что из себя представляет итеративная оптимизация фичи. Серебрянной пулей не поделюсь, но расскажу какие вопросы стоит себе задавать, на что смотреть и какие хитрости можно применить, чтоб на выходе ускорить фичу в 100 раз.",
     "url": "https://podlodka.io/crew-records/#rec347321555"
-  },
-  {
-    "title": "Теория конфликта",
-    "format": "Доклад",
-    "speakers": [
-      "Константин Подрубный"
-    ],
-    "conference": "Sandbox Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
   },
   {
     "title": "Compose Puzzlers",
@@ -9048,17 +8848,6 @@
     "season_theme": "Перформанс и профайлинг",
     "description": "В докладе я расскажу как мы подходим к оптимизации размера life streaming приложения и зачем это нужно. Затронем тему из чего формируется размер приложения, как выстраивать поэтапный процесс оптимизации файлов внутри IPA-пакета, и выделим какие практики вы можете применить в своем проекте уже сейчас, не останавливая разработку",
     "url": "https://podlodka.io/crew-records/#rec347321555"
-  },
-  {
-    "title": "Токсы vs границы",
-    "format": "Воркшоп",
-    "speakers": [
-      "Анастасия Калашникова"
-    ],
-    "conference": "Sandbox Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
   },
   {
     "title": "Проверка домашних заданий по compose",
@@ -9095,17 +8884,6 @@
     "season_theme": "Перформанс и профайлинг",
     "description": "",
     "url": "https://podlodka.io/crew-records/#rec347321555"
-  },
-  {
-    "title": "Разбор конфликтных кейсов по командам",
-    "format": "Воркшоп",
-    "speakers": [
-      "Евгений Антонов"
-    ],
-    "conference": "Sandbox Crew #1",
-    "season_theme": "Коммуникации GPB",
-    "description": "",
-    "url": "https://podlodka.io/crew-records"
   },
   {
     "title": "Battle: Jetpack Compose vs Swift UI vs Flutter",
